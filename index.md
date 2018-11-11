@@ -29,5 +29,6 @@
 <br>
 <br>
 <a href = "http://takajo-soft11.github.io/Heian-Period/">ページトップ</a>
+<br>
 <a href = "http://takajo-soft24.github.io/index.md/">ホーム</a>
 
