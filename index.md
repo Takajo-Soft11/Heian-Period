@@ -1,4 +1,6 @@
 # 平安時代
+<a href = "http://takajo-soft24.github.io/index.md/">ホーム</a>
+<br>
 <br>
 # 1.源平合戦
 <img src = "image.png" width = "25%" height = "25%">
@@ -26,4 +28,6 @@
 ## レストラン プロジェクションマッピング
 <br>
 <br>
-<a href = "http://takajo-soft24.github.io/index.md/">トップページ</a>
+<a href = "http://takajo-soft11.github.io/Heian-Period/">ページトップ</a>
+<a href = "http://takajo-soft24.github.io/index.md/">ホーム</a>
+
