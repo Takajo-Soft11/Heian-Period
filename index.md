@@ -1,5 +1,5 @@
 # 平安時代
-<a href = "http://takajo-soft24.github.io/index.md/">ホーム</a>
+<a href = "http://takajo-soft24.github.io/Event/main/">ホーム</a>
 <br>
 <br>
 # 1.源平合戦
@@ -31,5 +31,5 @@
 <br>
 <a href = "http://takajo-soft11.github.io/Heian-Period/">ページトップ</a>
 <br>
-<a href = "http://takajo-soft24.github.io/index.md/">ホーム</a>
+<a href = "http://takajo-soft24.github.io/Event/main">ホーム</a>
 
